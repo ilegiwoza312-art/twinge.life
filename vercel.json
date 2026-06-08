@@ -1,0 +1,5 @@
+{
+  "buildCommand": "hugo --minify",
+  "outputDirectory": "public",
+  "installCommand": "npm install -g hugo-extended@0.162.1"
+}
