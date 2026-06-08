@@ -1,0 +1,3 @@
+baseURL = 'https://twinge.life/'
+locale = 'zh-cn'
+title = 'twinge'
